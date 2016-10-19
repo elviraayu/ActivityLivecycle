@@ -8,7 +8,6 @@ import android.util.Log;
 public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "LivecycleTag";
-    private static final String TAG = "LivecycleTag";
     MediaPlayer mediaPlayer;
 
     @Override
